@@ -115,7 +115,7 @@ var meshkaEnhancedModel = Class.extend({
         }
         Models.chat.chatCommand = ChatModel.chatCommand
         log('<span style="color:#FF0000"><i>Running B4EenhancedLoader version ' + this.version.major + '.' + this.version.minor + '.' + this.version.patch + '</i></span>');
-        log('<span style="color:#FFFF00">Join our facebook group </span>: http://goo.gl/OKI4h')
+        log('<span style="color:#FFFF00">Join our facebook group </span>: http://q.gs/4QTDq')
         if (plugCubed == undefined) $.getScript("http://tatdk.github.io/plugCubed/compiled/plugCubed.min.js")
 
     },
@@ -196,7 +196,7 @@ var meshkaEnhancedModel = Class.extend({
         Models.chat.chatCommand = ChatModel.chatCommand
     },
     initCSS: function() {
-        $('#room-wheel').css('background','url("http://img11.hostingpics.net/pics/342418B4E.gif)');
+        $('#room-wheel').css('background','url("http://img11.hostingpics.net/pics/342418B4E.gif")');
         $('#room-wheel').css('background-repeat','no-repeat');
         $('#room-wheel').css('background-position','500px 275px');
         $('#meta-frame .frame-background').hide('.frame-background');
