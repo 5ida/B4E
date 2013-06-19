@@ -114,7 +114,7 @@ var meshkaEnhancedModel = Class.extend({
             }, a.message = b, this.receive(a), !0) : !1
         }
         Models.chat.chatCommand = ChatModel.chatCommand
-        log('<span style="color:#FF0000"><i>Running B4E version ' + this.version.major + '.' + this.version.minor + '.' + this.version.patch + '</i></span>');
+        log('<span style="color:#FF0000"><i>Running B4EenhancedLoader version ' + this.version.major + '.' + this.version.minor + '.' + this.version.patch + '</i></span>');
         log('<span style="color:#FFFF00">Join our facebook group </span>: http://goo.gl/OKI4h')
         if (plugCubed == undefined) $.getScript("http://tatdk.github.io/plugCubed/compiled/plugCubed.min.js")
 
@@ -196,7 +196,7 @@ var meshkaEnhancedModel = Class.extend({
         Models.chat.chatCommand = ChatModel.chatCommand
     },
     initCSS: function() {
-        $('#room-wheel').css('background','url("https://dl-web.dropbox.com/get/Plug.dj%20B4E/B4E.gif?w=AACX6nFDLBZG5vKjFtJj9pZbcF5-bR5UIOJTVf5p2oihvQ")');
+        $('#room-wheel').css('background','url("http://www.hostingpics.net/viewer.php?id=342418B4E.gif")');
         $('#room-wheel').css('background-repeat','no-repeat');
         $('#room-wheel').css('background-position','500px 275px');
         $('#meta-frame .frame-background').hide('.frame-background');
