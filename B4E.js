@@ -196,7 +196,7 @@ var meshkaEnhancedModel = Class.extend({
         Models.chat.chatCommand = ChatModel.chatCommand
     },
     initCSS: function() {
-        $('#room-wheel').css('background','url("http://www.hostingpics.net/viewer.php?id=342418B4E.gif")');
+        $('#room-wheel').css('background','url("http://img11.hostingpics.net/pics/342418B4E.gif)');
         $('#room-wheel').css('background-repeat','no-repeat');
         $('#room-wheel').css('background-position','500px 275px');
         $('#meta-frame .frame-background').hide('.frame-background');
